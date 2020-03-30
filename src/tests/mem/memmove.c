@@ -1,4 +1,5 @@
 #include <embox/test.h>
+#include <string.h>
 
 EMBOX_TEST_SUITE("Test suite for memmove()");
 
